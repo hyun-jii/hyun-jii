@@ -3,7 +3,7 @@
 ### Hi there 👋 My name is hyunjee.  
 
 - 🔭 I’m web developer.  
-- 🌱 I’m currently learning AngularJs, Java.  
+- 🌱 I’m currently learning AngularJs, Java, SpringBoot.  
 - 📫 How to reach me: tldnals49@naver.com  
 
 [![Hyunjee's github stats](https://github-readme-stats.vercel.app/api?username=hyun-jii)](https://github.com/anuraghazra/github-readme-stats)
