@@ -2,8 +2,8 @@
 
 ### Hi there 👋 My name is hyunjee.  
 
-- 🔭 I’m web developer.  
-- 🌱 I’m currently learning AngularJs, VueJs, SpringBoot.  
+- 🔭 I’m backend developer.  
+- 🌱 My skill is Java, Spring Boot.  
 - 🎫 My dev blog: https://velog.io/@hyun-jii
 - 📫 How to reach me: tldnals49@naver.com  
 
