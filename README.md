@@ -7,4 +7,3 @@
 - 🎫 My dev blog: https://velog.io/@hyun-jii
 - 📫 How to reach me: tldnals49@naver.com  
 
-[![Hyunjee's github stats](https://github-readme-stats.vercel.app/api?username=hyun-jii)](https://github.com/anuraghazra/github-readme-stats)
